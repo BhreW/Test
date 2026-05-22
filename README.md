@@ -1,3 +1,4 @@
+# PT SEJAHTERA BULAN MADU
 # IT Asset & Onboarding Knowledge Base
 
 Repositori ini berfungsi sebagai basis pengetahuan (Knowledge Base) utama untuk sistem AI-Powered Knowledge Assistant. Asisten AI akan membaca data dari dokumen ini untuk memberikan informasi real-time kepada karyawan mengenai inventaris perangkat keras IT dan panduan onboarding.
@@ -113,7 +114,7 @@ Berikut adalah status ketersediaan perangkat keras IT untuk alokasi karyawan bar
 
 Berikut adalah prosedur standar untuk karyawan baru terkait setup akses dan perangkat kerja:
 
-- **Pembuatan Email:** Email kantor (`@perusahaan.com`) akan otomatis dibuat maksimal 1x24 jam setelah kontrak ditandatangani oleh HR. Kredensial awal akan dikirimkan ke email pribadi karyawan.
+- **Pembuatan Email:** Email kantor (`@ptsbm.com`) akan otomatis dibuat maksimal 1x24 jam setelah kontrak ditandatangani oleh HR. Kredensial awal akan dikirimkan ke email pribadi karyawan.
 - **Akses VPN:** Karyawan dengan sistem kerja *remote* atau *hybrid* wajib mengisi formulir permintaan akses VPN di portal internal HR. Proses persetujuan membutuhkan waktu 2 hari kerja dan harus di-*approve* oleh Manager terkait.
 - **Akses WiFi Kantor:** Gunakan SSID "Office_Guest" untuk perangkat pribadi dan "Office_Internal" untuk perangkat kantor. Login menggunakan kredensial email masing-masing.
 - **Request Software Lanjutan:** Untuk lisensi software berbayar seperti Adobe Creative Cloud, Figma Professional, atau IDE (JetBrains), karyawan harus membuka tiket di portal IT Support setelah mendapat persetujuan dari Head of Department.
